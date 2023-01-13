@@ -1,3 +1,4 @@
-# 신대혁
+# SHIN DAE HYUK
 
-- 광주 1반 python
+-  SSAFY 광주 1반
+-  1년동안 화이팅!
